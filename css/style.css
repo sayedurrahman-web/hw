@@ -1,0 +1,32 @@
+
+body{
+    margin: 0 auto;
+    width: 840px;
+    background-color: antiquewhite;
+}
+nav ul{
+   list-style-type: none; 
+   display: flex;
+   justify-content: space-around;
+  font-size: 25px;
+  border: 2px solid cornflowerblue;
+  background-color: rgb(126, 60, 112);
+  align-items: center;
+  margin: 10px;
+ 
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+padding-right: 10px;
+
+}
+a:hover{
+    color: rgb(173, 26, 26);
+}
+footer{
+    text-align: center;
+   
+}
+
+
